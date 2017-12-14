@@ -2,35 +2,6 @@ package com.company;
 import java.util.Scanner;
 import java.util.Random;
 
-
-/*
-Scanner Class                                       CHECK
-2 Variables,Constants                               CHECK
-3 switch statement                                  CHECK
-4 conditional operator                              CHECK (OVERTIME HOURS)
-5 Operators(logical, arithmetical,assignment)       CHECK
-6 String class method                               CHECK (SUBSTR)
-7 Math class method                                 CHECK (RANDOM)
-8 Loop                                              CHECK (WHILE)
-9 Method passing argument by values                 CHECK
-9 Return value from method                          CHECK (PASSWORD)
-10 Method overloading                               CHECK
-11 Array                                            CHECK (EMPLOYEES)
-12 Add multiple classes                             CHECK
-13 Create an Object                                 CHECK
-14 Constructor                                      CHECK
-15 Super Keyword                                    CHECK
-16 Abstraction
-17 Inheritance                                      CHECK
-18 Encapsulation                                    CHECK
-19 Using Java libarary class                        CHECK
-20 Static variable and Static methods               CHECK
-21 using this keyword                               CHECK
-22 Modifier                                         CHECK
-23 Println ,printf methods                          CHECK
- */
-
-
 //parent class Bank Account
 class BankAccount{
     String m_name;
